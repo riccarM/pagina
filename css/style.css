@@ -26,10 +26,6 @@ h1 {
   font-weight: 300;
   font-style: normal;
 }
-img {
-  width: 20%;
-  height: 30%;
-}
 
 .move {
   animation: satelite 10s linear infinite;
